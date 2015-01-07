@@ -462,6 +462,7 @@
 				0B9BB63D1889777C00BF3326 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0B9BB63E1889777C00BF3326 /* Build configuration list for PBXNativeTarget "Scouting beta 2014Tests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +471,7 @@
 				0B9BB6401889777C00BF3326 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
